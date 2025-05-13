@@ -1,0 +1,25 @@
+# sbt build
+/target/
+/project/target/
+/.bsp/
+/.metals/
+/.scala-build/
+/.vscode/
+**/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Metals
+.metals
+.bloop
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log 
