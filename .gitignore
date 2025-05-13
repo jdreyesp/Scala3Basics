@@ -1,11 +1,10 @@
 # sbt build
-/target/
-/project/target/
-/.bsp/
-/.metals/
-/.scala-build/
-/.vscode/
 **/target/
+**/project/target/
+**/.bsp/
+**/.metals/
+**/.scala-build/
+**/.vscode/
 
 # IntelliJ IDEA
 .idea/

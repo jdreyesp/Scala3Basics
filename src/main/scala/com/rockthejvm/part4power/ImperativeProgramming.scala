@@ -21,4 +21,11 @@ object ImperativeProgramming {
     }
   }
 
+  // imperative programming tradeoffs
+  // - risky for concurrency problems (need for concurrnetcy)
+  // - harder to understand / debug / test
+
+  // imperative programming can help
+  // - for performance-critical applications (0.1% of cases; Akka / ZIO / Cats are already quite fast)
+  // - for interactions with Java libraries (usually mutable)
 }
